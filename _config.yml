@@ -13,6 +13,6 @@ permalink: pretty
 exclude: ["node_modules"]
 
 name: Julie Delon
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
